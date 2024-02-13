@@ -38,6 +38,6 @@ Specify the license under which the projects in this repository are distributed.
 
 ## Contact
 
-Feel free to contact me :D //
+Feel free to contact me :D \
 Email: youxuan2010@gmail.com
 
