@@ -8,7 +8,7 @@ Welcome to the repository containing my various AI projects. Below is an overvie
 
 LLM Analyst is an AI tool designed to read CSV files and process them to answer user queries.
 
-- [LLM Analyst Repository](https://github.com/YouXuan2010/AI-playground/tree/52de4661f261e35d8459ecc1f3679c5ff3baaf70/LLM_analyst)
+- [LLM Analyst](https://github.com/YouXuan2010/AI-playground/tree/52de4661f261e35d8459ecc1f3679c5ff3baaf70/LLM_analyst)
 
 LLM Analyst is an AI tool that reads CSV files and processes them to generate responses to user queries.
 
