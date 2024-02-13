@@ -14,7 +14,7 @@ LLM Analyst is an AI tool that reads CSV files and processes them to generate re
 
 #### Demo Video
 
-[LLM Analyst Showcase](media/Demo_video.mp4)
+[![LLM Analyst Showcase](media/thumbnail.png)](media/Demo_video.mp4)
 
 ### 2. [Other Project Name]
 
