@@ -4,7 +4,7 @@ from langchain_experimental.agents.agent_toolkits import create_csv_agent
 from langchain_openai import ChatOpenAI
 import os
 
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = "sk-YOUR_API_KEY"
 
 llm = ChatOpenAI(temperature=0.5)
 
