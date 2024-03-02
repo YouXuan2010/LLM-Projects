@@ -12,13 +12,8 @@ Boasting functionalities like file uploading, query input, and dynamic response 
 
 This ensures users a smooth interaction with the sophisticated langchain framework, providing a robust and technically sound approach to extracting information from structured datasets.
 
-- [LLM Analyst](https://github.com/YouXuan2010/AI-playground/tree/52de4661f261e35d8459ecc1f3679c5ff3baaf70/LLM_analyst)
-
-LLM Analyst is an AI tool that reads CSV files and processes them to generate responses to user queries.
-
 #### Demo Video
-
-[LLM Analyst Showcase](media/Demo_video.mp4)
+https://github.com/YouXuan2010/AI-playground/assets/100280753/231490c3-68bf-4dba-bdd6-9c94167510fe
 
 ### 2. Retrieval-Augmented Generation (RAG)
 
@@ -28,9 +23,11 @@ By combining generative and retrieval-based approaches, RAG provides contextuall
 
 This versatile solution is ideal for companies seeking to manage and retrieve proprietary information dynamically, offering a powerful tool for maintaining a knowledge base that adapts to the evolving landscape of data.
 
-- [RAG](https://github.com/YouXuan2010/AI-playground/tree/master/RAG)
+With normal query, ChatGPT is not able to answer the question effectively:
+<img width="600" alt="RAG2" src="https://github.com/YouXuan2010/AI-playground/assets/100280753/592f5b8c-6205-43ce-a4ff-8ae4707dc0a3">
 
-Include a brief description of the other project here.
+With the RAG framework applied, ChatGPT is able to give reply based on the latest information given:
+<img width="900" alt="RAG1" src="https://github.com/YouXuan2010/AI-playground/assets/100280753/14696782-7251-4f3a-8d3b-9f3581c96624">
 
 ## Getting Started
 
