@@ -26,6 +26,13 @@ With normal query, ChatGPT is not able to answer the question effectively:
 With the RAG framework applied, ChatGPT is able to give reply based on the latest information given:
 <img width="900" alt="RAG1" src="https://github.com/YouXuan2010/AI-playground/assets/100280753/14696782-7251-4f3a-8d3b-9f3581c96624">
 
+### 2. Whisper Speech to Text
+
+Usage: Speech to text and provide few functions
+1. Provide summary of the speech
+2. Provide keywords of the speech (Generate YouTube tags)
+3. Provide options to translate to different languages
+
 ## Getting Started
 
 If you're new to this repository, follow these steps to get started:
