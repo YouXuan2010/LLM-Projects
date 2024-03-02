@@ -1,9 +1,9 @@
 ![masterhead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 <h2 align="center">Hi 👋, Welcome to the repository containing my various AI projects.</h2> 
 
-### 1. LLM Analyst
+### 1. LLM Data Analyst
 
-The LLM Analyst represents an AI application developed with Streamlit, seamlessly integrating OpenAI's GPT-4 to form a flexible tool for querying information from CSV files. 
+The LLM Data Analyst represents an AI application developed with Streamlit, seamlessly integrating OpenAI's GPT-4 to form a flexible tool for querying information from CSV files. 
 
 Boasting functionalities like file uploading, query input, and dynamic response generation, the application harnesses the power of langchain_experimental's agent_toolkits and the ChatOpenAI module. 
 
@@ -12,7 +12,7 @@ This ensures users a smooth interaction with the sophisticated langchain framewo
 #### Demo Video
 https://github.com/YouXuan2010/AI-playground/assets/100280753/231490c3-68bf-4dba-bdd6-9c94167510fe
 
-### 2. Retrieval-Augmented Generation (RAG)
+### 2. Retrieval-Augmented Generation (RAG) Framework
 
 The RAG (Retrieval-Augmented Generation) is a cutting-edge conversational AI system, leveraging OpenAI's GPT-4 and advanced technologies like FAISS-GPU and OpenAIEmbeddings.
 
