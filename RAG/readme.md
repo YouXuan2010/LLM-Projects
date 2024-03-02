@@ -1,3 +1,5 @@
+# Retrieval-Augmented Generation Framework for Information Retrieval
+
 The RAG (Retrieval-Augmented Generation) project is a sophisticated system built upon the langchain library and powered by OpenAI's GPT-4 for advanced conversational generation and retrieval tasks. With technologies like FAISS-GPU and OpenAIEmbeddings, the project achieves efficient text embedding and retrieval, enhancing its dynamic response capabilities to user queries.
 
 RAG proves invaluable by offering a seamless blend of generative and retrieval-based approaches, providing the system with a deeper contextual understanding. This hybrid approach not only allows the AI to generate contextually rich responses but also facilitates the retrieval of specific and relevant information from a preprocessed dataset.
