@@ -1,6 +1,6 @@
-# LLM Analyst: AI-Driven Information Query Tool
+# LLM Data Analyst: AI-Driven Information Query Tool
 
-The LLM Analyst is an advanced AI application developed using Streamlit, designed to streamline the process of querying information from CSV files. Leveraging the robust capabilities of OpenAI's GPT-4, this tool offers a versatile and user-friendly interface for dynamic data retrieval.
+The LLM Data Analyst is an advanced AI application developed using Streamlit, designed to streamline the process of querying information from CSV files. Leveraging the robust capabilities of OpenAI's GPT-4, this tool offers a versatile and user-friendly interface for dynamic data retrieval.
 
 ## Features
 File Upload Capability: Users can effortlessly upload CSV files, facilitating seamless integration of structured datasets into the application.
