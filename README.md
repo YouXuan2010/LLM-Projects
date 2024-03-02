@@ -39,11 +39,7 @@ If you're new to this repository, follow these steps to get started:
 
 ## Contributing
 
-If you're interested in contributing to any of these projects, please follow the guidelines outlined in the respective project's README.
-
-## License
-
-Specify the license under which the projects in this repository are distributed.
+If you're interested in contributing to any of these projects, please contact me directly.
 
 ## Contact
 
