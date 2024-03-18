@@ -53,3 +53,9 @@ python main.py
 2. Follow the prompts in the terminal to play the game. Make choices when prompted and watch the story unfold dynamically based on your decisions.
 
 3. The game ends when the traveler finds the Gem of Serenity or gets killed, indicated by the text "The End.".
+
+## Example Demo
+1. Demo 1 \
+![AI game](https://github.com/YouXuan2010/AI-playground/assets/100280753/201f21af-e687-4e8e-8027-48b2784edb98)
+2. Demo 2 \
+![AI game 3](https://github.com/YouXuan2010/AI-playground/assets/100280753/be4a64ae-bc45-4be1-8a50-c648d7b739f1)
