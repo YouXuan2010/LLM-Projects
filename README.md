@@ -26,7 +26,11 @@ With normal query, ChatGPT is not able to answer the question effectively:
 With the RAG framework applied, ChatGPT is able to give reply based on the latest information given:
 <img width="900" alt="RAG1" src="https://github.com/YouXuan2010/AI-playground/assets/100280753/14696782-7251-4f3a-8d3b-9f3581c96624">
 
-### 2. Whisper Speech to Text
+### 3. AI Adventure Game
+
+This project is an interactive text-based adventure game where players embark on a mystical journey in the Whispering Woods. The game dynamically adapts the tale based on the player's decisions, creating a branching narrative experience where each choice leads to a new path, ultimately determining the fate of the traveler named Elara.
+
+### 4. Whisper Speech to Text
 
 Usage: Speech to text and provide few functions
 1. Provide summary of the speech
